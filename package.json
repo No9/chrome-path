@@ -1,7 +1,7 @@
 {
-  "name": "path-browserify",
-  "version": "0.0.0",
-  "description": "the path module from node core for browsers",
+  "name": "chrome-path",
+  "version": "1.0.0",
+  "description": "the path module from node core for chromiumify",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -18,7 +18,8 @@
   "keywords": [
     "path",
     "browser",
-    "browserify"
+    "browserify",
+    "chromiumify"
   ],
   "author": {
     "name": "James Halliday",
